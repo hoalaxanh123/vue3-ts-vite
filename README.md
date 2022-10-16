@@ -1,4 +1,4 @@
-# Vue 3 + TypeScript + Vite + Eslint + Prettier
+# Vue 3 + TypeScript + Vite + Eslint + Prettier + Pinia + Vuetify 3
 
 ## My Edit
 
